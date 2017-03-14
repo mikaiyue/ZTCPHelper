@@ -10,7 +10,7 @@ namespace ZTCPHelper
 {
  
     /// <summary>
-    /// Tcp服务
+    /// ZTcp服务
     /// </summary>
     public class ZTcpServer
     {
