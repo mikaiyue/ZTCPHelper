@@ -7,7 +7,9 @@ using System.Collections.Specialized;
 
 namespace ZTCPHelper
 {
-
+    /// <summary>
+    /// Key-Value数据转义及反转义：[k1-v1,k2-v2,k3-v3]转为k1=v1&k2=v2k3=v3格式的字符串
+    /// </summary>
     public class KeyValStringEscape
     {
 
