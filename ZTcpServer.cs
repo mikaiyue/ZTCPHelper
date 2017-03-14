@@ -62,9 +62,6 @@ namespace ZTCPHelper
         /// </summary>
         public ByteEscape EscapeCharDefine = new ByteEscape();
 
-		/// <summary>
-        /// KeyVal转义字符定义
-        /// </summary>
         public KeyValStringEscape StringEscape = new KeyValStringEscape();
 
         public void Start()
