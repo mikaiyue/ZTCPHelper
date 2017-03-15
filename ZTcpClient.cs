@@ -27,6 +27,9 @@ namespace ZTCPHelper
 
         public string _key = Guid.NewGuid().ToString();
 
+        /// <summary>
+        /// 每个ZTcpClient都生成一个唯一ID
+        /// </summary>
         public string IDKey
         {
             get
