@@ -14,6 +14,9 @@ namespace ZTCPHelper
     /// </summary>
     public class ZTcpServer
     {
+        /// <summary>
+        /// ZTcpListener
+        /// </summary>
         private class ZTcpListener : TcpListener
         {
             public bool Active
